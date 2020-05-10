@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: responsive.png
+alt: image-alt
+title: Compatível com dispositivos móveis
+description: Com o desenvolvimento responsivo, garantimos que seu site ficará ótimo em qualquer dispositivo.
+---

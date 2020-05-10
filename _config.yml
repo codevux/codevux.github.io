@@ -1,0 +1,80 @@
+# Site settings
+title: Codevux
+email: codevux@gmail.com
+url: http://codevux.com
+description: "Desenvolvimento Web"
+keywords: "desenvolvimento web, web development"
+meta_author: Codevux
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+form_api_token: 44c59d3276d6cfc5158690e2001ad348
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Header settings
+header:
+  headline: Crie um site impressionante
+  intro: Desenvolvemos sites e apps para empresas, eventos, profissionais e criadores de conteúdo.
+  cta-text: Começar agora
+
+# Footer settings
+footer:
+  copyright: Codevux
+  location: Endereço
+  social: Encontre-nos
+  credits: Sobre
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/codevux
+  - title: facebook
+    url: http://facebook.com/codevux
+  - title: bitbucket
+    url: http://bitbucket.org/codevux
+  - title: github
+    url: http://github.com/codevux
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Porto Alegre
+  - line: RS, Brasil
+
+# Credits content
+credits: 'Desenvolvimento de sites para empresas, profissionais, eventos e criadores de conteúdo.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  benefits:
+    output: true
+  steps:
+
+#for posts
+defaults:
+  - scope:
+      type: ""
+    values:
+      layout: "default"
+      permalink: ""

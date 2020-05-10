@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: profit.png
+alt: image-alt
+title: Gere lucros
+description: Gerenciar seu site se torna simples e fácil com a poderosa plataforma na qual o site é desenvolvido.
+---

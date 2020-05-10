@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: stats.png
+alt: image-alt
+title: Estatísticas avançadas
+description: Fique de olho no tráfego e saiba mais sobre seus leitores. Veja de onde eles são e como encontraram você com mapas e gráficos coloridos que apresentam suas estatísticas com perfeição.
+---

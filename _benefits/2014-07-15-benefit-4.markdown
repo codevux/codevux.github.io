@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: design.png
+alt: image-alt
+title: Design extraordinário
+description: Desenvolvimento de um estilo único para seu site.
+---

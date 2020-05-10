@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: like.png
+alt: image-alt
+title: Fácil de usar
+description: Gerenciar seu site se torna simples e fácil com a poderosa plataforma na qual o site é desenvolvido.
+---

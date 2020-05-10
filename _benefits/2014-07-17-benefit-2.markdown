@@ -1,0 +1,7 @@
+---
+layout: benefit
+img: internet.png
+alt: image-alt
+title: Escolha seu domínio
+description: Registre um domínio exclusivo .com, .net, .org, ou .br para seu site.
+---

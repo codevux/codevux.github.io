@@ -1,0 +1,21 @@
+<div class="jumbotron container secondary-bg text-center" style="color:#fff">
+	
+	<div class="row">
+		{% for step in site.steps %}
+			<div class="col-md-3 mb-4 mb-sm-0">
+				<div class="step-item">
+					<span class="step-index">{{ forloop.index }}</span>
+					<h4>{{ step.title }}</h4>
+					<p class="lead">{{ step.description }}</p>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+</div>
+<div class="jumbotron container text-center" style="background-color: #fff">
+	<div class="page-scroll">
+		<h2 class="h2 secondary-color">Vamos dar vida a sua ideia?</h2>
+		<hr>
+		<a href="#contact" class="btn btn-lg btn-primary">Começar agora</a>
+	</div>
+</div>
